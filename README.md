@@ -11,7 +11,9 @@ To start an application, do the following :
 
 # Install dependancies
 $ npm install
-# create a .env file and put there the API KEY for retrieving data from https://weatherstack.com/
+
+create a .env file and put there the API KEY for retrieving data from https://weatherstack.com/
+
 $ echo "REACT_APP_API_KEY=<YOUR-API-KEY>" > .env
 # Start the application
 $ npm start
