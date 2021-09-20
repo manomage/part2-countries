@@ -9,7 +9,7 @@ In this application, it is also possible to see the current weather in the count
 
 To start an application, do the following :
 
-# Install dependancies
+# Install dependencies
 $ npm install
 
 create a .env file and put there the API KEY for retrieving data from https://weatherstack.com/
